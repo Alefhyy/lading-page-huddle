@@ -1,0 +1,81 @@
+body {
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    line-height: -30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.imagem_primeira_section {
+    position:absolute;
+    width: 1583.4px;
+    height: 775px;
+    background-color: hsl(193, 100%, 96%);
+}
+
+
+.botao_header {
+    background-color: white;
+    border-style: none;
+    border-radius: 30px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    height: 50px;
+    width: 200px;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    right: -930px;
+    top: -150px;
+    margin-top: 65px;
+    margin-right: 25px;
+}
+
+.logo {
+    margin-top: 65px;
+    margin-left: 80px;
+    margin-bottom: 135px;
+    width: 290px;
+    height: 50px;
+    position: relative;
+}
+
+.mockups {
+    position: absolute;
+    right: 0px;
+    top: 115px;
+    margin-right: 80px;
+    margin-top: 85px;
+    width: 700px;
+    height: 505px;
+}
+
+.h1_build_the_community {
+    margin-left: 80px;
+    font-family: 'Poppins', sans-serif;
+    font-weight:600;
+    font-size:50px;
+    position: relative;
+}
+
+.p_huddle {
+    margin-left: 80px;
+    font-size: 22.5px;
+    position: relative;
+}
+
+.botao_get_started_for_free_um {
+    background-color: hsl(322, 100%, 66%);
+    position: relative;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-style: none;
+    color: white;
+    width: 280px;
+    height: 56px;
+    border-radius: 50px;
+    margin-left: 80px;
+    margin-top: 33px;
+    font-family: 'Poppins', sans-serif;
+}

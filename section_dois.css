@@ -1,0 +1,197 @@
+#section_dois {
+    margin-top: 200px;
+}
+/* seção grow together */
+.grow_together{
+    position: relative;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding-left: 120px;
+    margin-left: 80px;
+    width: 1114px;
+    height: 130px;
+    padding-top: 160px;
+    padding-bottom: 150px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+}
+
+.img_grow_together {
+    width: 393px;
+    height: 331px;
+    position: absolute;
+    top: 70px;
+    right: 50px;
+}
+/*seção flowing conversations*/
+.flowing_conversations{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding-left: 700px;
+    margin-left: 80px;
+    width: 514px;
+    height: 130px;
+    padding-top: 160px;
+    padding-bottom: 150px;
+    margin-bottom: 40px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+
+.img_flowing_conversations {
+    width: 414px;
+    height: 297px;
+    position: absolute;
+    bottom: -1028.5px;
+    left: 180px;
+}
+/* seção your users*/
+.your_users {
+    position: relative;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding-left: 120px;
+    margin-left: 80px;
+    width: 1114px;
+    height: 130px;
+    padding-top: 160px;
+    padding-bottom: 150px;
+    border-radius: 20px;
+}
+
+.img_your_users {
+    width: 421px;
+    height: 316px;
+    position: absolute;
+    right: 50px;
+    top: 100px;
+}
+
+.caixa_ready {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: white;
+    width: 536px;
+    height: 225px;
+    padding-top: 55px;
+    padding-left: 132px;
+    padding-right: 132px;
+    margin-left: 350px;
+    border-radius: 20px;
+    margin-top: 160px;
+    position: relative;
+    bottom: -100px;
+    z-index: 1;
+}
+
+.ready_to_build {
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    text-align: center;
+    white-space: nowrap;
+    font-weight: 600;
+}
+
+.botao_get_started_for_free_dois {
+    background-color: hsl(322, 100%, 66%);
+    position: relative;
+    right: -50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-style: none;
+    color: white;
+    width: 400px;
+    height: 80px;
+    font-size: 15px;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* FOOTER */
+
+footer{
+    position: absolute;
+    width: 1583.4px;
+    height: 560px;
+    background-color: hsl(192, 100%, 9%);
+}
+
+.logo_dois {
+    margin-left: 80px;
+    margin-top: 190px;
+}
+
+.location {
+    display: flex;
+    position: absolute;
+    left: 55px;
+    bottom: 260px;
+}
+
+.p_footer {
+    color: white;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.phone_svg {
+    display: flex;
+    position: absolute;
+    left: 50px;
+    bottom: 163px;
+}
+
+.phone {
+    color: white;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.email_svg {
+    display: flex;
+    position: absolute;
+    left: 48px;
+    bottom: 109px;
+}
+
+.email {
+    color: white;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.itens_rodape_um {
+    color:white;
+    list-style-type: none;
+    position: absolute;
+    right: 850px;
+    top: 250px;
+    line-height: 50px;
+}
+
+.itens_rodape_dois {
+    color:white;
+    list-style-type: none;
+    position: absolute;
+    right: 630px;
+    top: 250px;
+    line-height: 50px;
+}
+/* icones do rodapé */
+.icones {
+    position: absolute;
+    right: 325px;
+    top: 265px;
+}
+
+.facebook{
+    height:31px;
+    width:31px;
+    margin-right: 12px;
+}
+
+.twitter {
+    height:31px;
+    width:31px;
+}
+
+.instagram {
+    height:31px;
+    width:31px;
+    margin-left: 12px;
+}

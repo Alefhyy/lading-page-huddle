@@ -1,0 +1,56 @@
+.botao_header:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.botao_header {
+    transition: 0.15s ease-in-out;
+}
+
+.botao_get_started_for_free_um:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.botao_get_started_for_free_um {
+    transition: 0.15s ease-in-out;
+}
+
+.botao_get_started_for_free_dois:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.botao_get_started_for_free_dois {
+    transition: 0.15s ease-in-out;
+}
+
+/* icones do rodapé */ 
+
+
+.facebook:hover{
+    transform: scale(1.08);
+    cursor: pointer;
+}
+
+.facebook {
+    transition: 0.15s ease-in-out;
+}
+
+.twitter:hover{
+    transform: scale(1.08);
+    cursor: pointer;
+}
+
+.twitter {
+    transition: 0.15s ease-in-out;
+}
+
+.instagram:hover{
+    transform: scale(1.08);
+    cursor: pointer;
+}
+
+.instagram {
+    transition: 0.15s ease-in-out;
+}
