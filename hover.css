@@ -10,6 +10,8 @@
 .botao_get_started_for_free_um:hover {
     transform: scale(1.05);
     cursor: pointer;
+    animation: pulsate 
+    1s ease-in-out;
 }
 
 .botao_get_started_for_free_um {
@@ -19,10 +21,20 @@
 .botao_get_started_for_free_dois:hover {
     transform: scale(1.05);
     cursor: pointer;
+    animation: pulsate 
+    1s ease-in-out;
 }
 
 .botao_get_started_for_free_dois {
     transition: 0.15s ease-in-out;
+}
+
+@keyframes pulsate {
+    0%{
+        box-shadow:
+        0 0 25px #5ddcff,
+        0 0 50px #4e00c2;
+    }
 }
 
 /* icones do rodapé */ 
