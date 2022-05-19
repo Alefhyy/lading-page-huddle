@@ -4,7 +4,7 @@
 /* seção grow together */
 .grow_together{
     position: relative;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
     padding-left: 120px;
     margin-left: 80px;
     width: 1114px;
@@ -24,7 +24,7 @@
 }
 /*seção flowing conversations*/
 .flowing_conversations{
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
     padding-left: 700px;
     margin-left: 80px;
     width: 514px;
@@ -46,7 +46,7 @@
 /* seção your users*/
 .your_users {
     position: relative;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
     padding-left: 120px;
     margin-left: 80px;
     width: 1114px;
@@ -65,7 +65,7 @@
 }
 
 .caixa_ready {
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
     background-color: white;
     width: 536px;
     height: 225px;
